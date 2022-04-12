@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.img{
+    width: 100%;
+    border: 10px;
+} 
+
+#p__tag{
+    color: red;
+    font-weight: 500;
+    font-size: medium;
+    font-style: italic;
+}
+
+#ind{
+    color: green;
+    /* text-decoration: line-through; */
+    text-transform: uppercase;
+
+}
+
+ol li {
+    color: orange;
+
+}
