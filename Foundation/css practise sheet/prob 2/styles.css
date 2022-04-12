@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: "Verdana", "Geneva", "Tahoma", "sans-serif";
+}
+
+.xodd{
+    font-size: 22px;
+}
+
+#id__1{
+    color: blue;
+    font-size: 36px;
+}
+
+#id__2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
